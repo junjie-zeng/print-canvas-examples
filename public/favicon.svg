@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Print Canvas Designer icon">
+  <rect width="64" height="64" rx="14" fill="#2563eb"/>
+  <rect x="17" y="13" width="30" height="20" rx="4" fill="#ffffff" opacity="0.96"/>
+  <rect x="21" y="17" width="22" height="3" rx="1.5" fill="#2563eb" opacity="0.7"/>
+  <rect x="21" y="24" width="12" height="3" rx="1.5" fill="#2563eb" opacity="0.42"/>
+  <rect x="13" y="28" width="38" height="20" rx="5" fill="#dbeafe"/>
+  <rect x="19" y="36" width="26" height="15" rx="3" fill="#ffffff"/>
+  <path d="M24 42h16M24 47h10" stroke="#2563eb" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="19" cy="34" r="2.2" fill="#2563eb"/>
+  <circle cx="45" cy="34" r="2.2" fill="#2563eb"/>
+  <path d="M42 13l5 5h-5z" fill="#bfdbfe"/>
+</svg>
