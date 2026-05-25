@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
-const repositoryBase = '/print-canvas-examples/'
+const repositoryBase = '/projects/print-canvas-examples/'
 const isGitHubPagesBuild = process.env.BUILD_TARGET === 'github'
 
 export default defineConfig({

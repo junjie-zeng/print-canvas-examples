@@ -84,7 +84,7 @@ const activeExample = computed(() => examples.find((item) => item.key === active
         <a class="docs-link" href="https://junjie-zeng.github.io/projects/print-canvas-designer/" target="_blank" rel="noreferrer">
           查看文档
         </a>
-        <a class="github-link" href="https://github.com/junjie-zeng/print-canvas-designer" target="_blank" rel="noreferrer">
+        <a class="github-link" href="https://github.com/junjie-zeng/print-canvas-examples" target="_blank" rel="noreferrer">
           <svg aria-hidden="true" viewBox="0 0 24 24">
             <path
               fill="currentColor"

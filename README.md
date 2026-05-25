@@ -121,4 +121,4 @@ import 'print-canvas-designer/style.css'
 ## 相关链接
 
 - 文档：https://junjie-zeng.github.io/projects/print-canvas-designer/
-- GitHub：https://github.com/junjie-zeng/print-canvas-designer
+- GitHub：https://github.com/junjie-zeng/print-canvas-examples
